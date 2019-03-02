@@ -5,7 +5,7 @@ import Cuerpo from "./components/Cuerpo";
 import Menu from './components/Menu'
 import Pie from './components/Pie'
 
-
+import './App.css'
 class App extends Component {
   render() {
     return (
