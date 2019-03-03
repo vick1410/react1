@@ -6,7 +6,7 @@ import Inicio from './Inicio'
 import Nosotros from './Nosotros'
 
 class Router extends Component {
-    state = {  }
+    
     render() { 
         return ( 
 
