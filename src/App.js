@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Cabecera titulo={"Aprendiendo React"} />
+        <Cabecera titulo={"Nombre del sitio"} />
         <div className="container">
           <Menu></Menu>
           <Cuerpo></Cuerpo>
